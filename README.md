@@ -1,6 +1,7 @@
 # Testing Neural Network Architectures for FlappyBird
 
 This project is based on the tutorial found at https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
+and the corresponding code at https://github.com/nevenp/dqn_flappy_bird
 
 Visit https://www.toptal.com/blog and subscribe to our newsletter to read great posts!
 
