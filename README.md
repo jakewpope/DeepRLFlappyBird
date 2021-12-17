@@ -10,8 +10,14 @@ Visit https://www.toptal.com/blog and subscribe to our newsletter to read great 
 * Run `pip3 install -r requirements.txt` to install dependencies.
 
 ##### How to run:
-* Run `python dqn.py test` to run pretrained neural network model.
-* Run `python dqn.py train` to train the model from the beginning. You can also increase FPS in game/flappy_bird.py script for faster training.
+* Run `python dqn-alexnet.py test` to run pretrained neural network model.
+* Run `python dqn-alexnet.py train` to train the model from the beginning. You can also increase FPS in game/flappy_bird.py script for faster training.
+
+* Run `python dqn-deepmind.py test` to run pretrained neural network model.
+* Run `python dqn-deepmind.py train` to train the model from the beginning. You can also increase FPS in game/flappy_bird.py script for faster training.
+
+* Run `python dqn-random.py test` to run pretrained neural network model.
+* Run `python dqn-random.py train` to train the model from the beginning. You can also increase FPS in game/flappy_bird.py script for faster training.
 
 References:
 * https://github.com/sourabhv/FlapPyBird
