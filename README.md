@@ -1,5 +1,7 @@
 # Testing Neural Network Architectures for FlappyBird
 
+This work implements different variations of convolutional neural networks to learn to play the game Flappy Bird. The architectures tested in this work are based on previous works deep reinforcement learning and other machine learning projects. These studies showed a convolutional neural network based on the image classification architecture AlexNet is effective at learning the game Flappy Bird with deep Q-learning.
+
 This project is based on the tutorial found at https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
 and the corresponding code at https://github.com/nevenp/dqn_flappy_bird
 
