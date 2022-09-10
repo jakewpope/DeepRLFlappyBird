@@ -3,8 +3,6 @@
 This project is based on the tutorial found at https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
 and the corresponding code at https://github.com/nevenp/dqn_flappy_bird
 
-Visit https://www.toptal.com/blog and subscribe to our newsletter to read great posts!
-
 ##### Dependencies:
 * Python 3.6.5
 * Run `pip3 install -r requirements.txt` to install dependencies.
